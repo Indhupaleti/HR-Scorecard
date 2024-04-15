@@ -66,13 +66,7 @@ This includes trendline and target line to help HR managers track progress towar
     
     7th Sheet: Education Field wise Attrition (Donut Plot)
 
-## DASHBOARD:
 
-![HR Dashboard ](https://user-images.githubusercontent.com/124501309/227755419-ff277f69-fd14-4d51-b85f-973c25a6219f.png)
-
-### DASHBOARD VIDEO:
-
-https://user-images.githubusercontent.com/124501309/227794176-ee1b6f90-9078-41aa-a185-914f27d5215d.mp4
 
 ### DASHBOARD OVERVIEW:
 
@@ -86,7 +80,7 @@ Overall, HR Analytics Dashboard project using Tableau is an essential tool for a
 
 ## NOTE: 
 
-I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
+I have uploaded all the files, datasets, workbook, icons above. Feel free to connect
 
 [Go to my LinkedIn](https://www.linkedin.com/in/indhupaleti07/) 🌐
 
